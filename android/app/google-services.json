@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "661256272350",
+    "project_id": "event-planner-cb831",
+    "storage_bucket": "event-planner-cb831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661256272350:android:adc47f75d31c3c6970854f",
+        "android_client_info": {
+          "package_name": "com.example.event_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661256272350-kkb57otatr1n63skofqh3nodn53fh9dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.event_planner",
+            "certificate_hash": "f8610bf8870b5d3374b95fce2d39b527a5ae45d7"
+          }
+        },
+        {
+          "client_id": "661256272350-c2taiva0it3ipi4kf23o5sedmbikeo8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEYZP6zkDk5rBGZg7ZRMsq5x6nLvttz64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661256272350-c2taiva0it3ipi4kf23o5sedmbikeo8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
